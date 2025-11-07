@@ -1,4 +1,4 @@
-<div>
+<div class="bg-base-100 p-6 h-full overflow-y-auto rounded-lg">
     <!-- HEADER -->
     <x-header title="Hello" separator progress-indicator>
         <x-slot:middle class="!justify-end">
